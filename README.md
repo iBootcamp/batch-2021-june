@@ -40,6 +40,10 @@ Repositories &amp; exercises of batch 2021 july.
   - diff
   - Advanced branch
 
+# Guides
+In order to start learning git, we need to first download and install git. Here is the link for git:  <br/> > `https://git-scm.com/downloads`
+
+---
 ## Contributers
 
 - [**Rakesh Shrestha**](https://github.com/aomini)
