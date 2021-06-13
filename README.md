@@ -17,6 +17,29 @@ Repositories &amp; exercises of batch 2021 july.
 
 ## How to write a markdown
 
+## Git
+
+- Introduction
+  - Git
+  - Github
+  - Git vs Github
+  - Motivation
+- Guides
+- Documentation
+  - Initialize a repo
+  - Remote
+    - Add Remote
+    - Origin
+  - Cloning
+  - Untracked files , tracked files & modified files
+  - branch (default)
+  - Status
+  - add
+  - commit
+  - alias
+  - diff
+  - Advanced branch
+
 ## Contributers
 
 - [**Rakesh Shrestha**](https://github.com/aomini)
