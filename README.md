@@ -50,3 +50,4 @@ In order to start learning git, we need to first download and install git. Here 
 ## Contributers
 
 - [**Rakesh Shrestha**](https://github.com/aomini)
+- [**shreyash Shrestha**](https://github.com/Shr3yashhh)
