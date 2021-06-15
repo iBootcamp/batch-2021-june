@@ -57,6 +57,27 @@ Repositories &amp; exercises of batch 2021 july.
   - diff
   - Advanced branch
 
+### Status
+
+>The command line for status is:<br/>
+`git status`<br/>
+>In git, status command has an important role as:
+1.1. It shows if there is no git file.
+![git status!]("")
+
+2. It shows if there is a need of add command.
+![git status!]("")
+
+3. It shows if commit command should be used.
+![git status!]("")
+
+4. It shows if there has has been a change in file.
+![git status!]("")
+
+5. It shows if the file is ready to be pushed.
+![git status!]("")
+
+
 # Guides
 In order to start learning git, we need to first download and install git. Here is the link for git:  <br/>  `https://git-scm.com/downloads`
 
