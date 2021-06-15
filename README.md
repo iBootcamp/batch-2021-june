@@ -9,7 +9,7 @@ Repositories &amp; exercises of batch 2021 july.
   - [Setup and installation](#setup-and-installation)
   - [How to write a markdown](#how-to-write-a-markdown)
   - [Git](#git)
-- [Guides](#guides)
+  - [Guides](#guides)
   - [Contributers](#contributers)
 
 ## Setup and installation
@@ -57,7 +57,7 @@ Repositories &amp; exercises of batch 2021 july.
   - diff
   - Advanced branch
 
-# Guides
+## Guides
 In order to start learning git, we need to first download and install git. Here is the link for git:  <br/>  `https://git-scm.com/downloads`
 
 ---
