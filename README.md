@@ -65,5 +65,5 @@ In order to start learning git, we need to first download and install git. Here 
 
 - [**Rakesh Shrestha**](https://github.com/aomini)
 - [**Debrath Sharma**](https://github.com/Madara-coder)
-
+- [**Sudesh Acharya**](https://github.com/thesudesh)
 ---
