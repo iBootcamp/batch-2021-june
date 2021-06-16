@@ -1,16 +1,15 @@
-# batch-2021-june
+# Batch-2021-june
 
 Repositories &amp; exercises of batch 2021 july.
 
 ## Table of Contents
 
-- [batch-2021-june](#batch-2021-june)
-  - [Table of Contents](#table-of-contents)
   - [Setup and installation](#setup-and-installation)
   - [How to write a markdown](#how-to-write-a-markdown)
   - [Git](#git)
   - [Guides](#guides)
   - [Contributers](#contributers)
+
 
 ## Setup and installation
 
