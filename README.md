@@ -50,16 +50,8 @@ Repositories &amp; exercises of batch 2021 july.
   - Cloning
   - Untracked files , tracked files & modified files
   - branch (default)
-  - [Status](#Status)
-  - [add](#Add)
-  - commit
-  - alias
-  - diff
-  - Advanced branch
-
-### Status
-
->The command line for **status** is:<br/>
+  - ### Status
+  >The command line for **status** is:<br/>
 `git status`<br/>
 >In git, **status** command has an important role as:
 1. It shows if there is no git file.<br/>
@@ -80,16 +72,19 @@ Repositories &amp; exercises of batch 2021 july.
 
 ---
 
-### Add
+  - ### add
 
->The command line for **add** is:<br/>
+  >The command line for **add** is:<br/>
 `git add *filename*` or `git add .` where "." means all files. <br/>
 ![git add filename](photos/add-read.JPG)<br/>
 ![git add .](photos/add-.JPG)<br/>
 >This command is used whenever there is a change in the file. Without this command,**commit** command cannot be executed.
 
 ---
-
+  - commit
+  - alias
+  - diff
+  - Advanced branch
 
 # Guides
 In order to start learning git, we need to first download and install git. Here is the link for git:  <br/>  `https://git-scm.com/downloads`
