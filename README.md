@@ -12,7 +12,7 @@ ___
   - [Markdown ✨](#markdown-)
     - [Introduction 📜](#introduction-)
     - [History 🕐](#history-)
-    - [Standardizaton 🤝](#standardizaton-)
+    - [What is Markdown in simple language?? 🤔](#what-is-markdown-in-simple-language-)
     - [Markdown Cheat Sheets 📖](#markdown-cheat-sheets-)
   - [Git](#git)
   - [Guides](#guides)
@@ -30,10 +30,11 @@ ___
 
 ### Introduction 📜
 
-Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.<br>
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+
+<br>
 
 ### History 🕐
-
 
 In 2002 Aaron Swartz created atx, "the true structured text format". Swartz and John Gruber then worked together to create the Markdown language in 2004, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)".<br>
 
@@ -43,19 +44,31 @@ Gruber wrote a Perl script, Markdown.pl, which converts marked-up text input to 
 
 <br>
 
-### Standardizaton 🤝
+### What is Markdown in simple language?? 🤔
 
-Markdown has been characterised by an informal specification and a reference implementation for conversion to HTML. Over time, many Markdown implementations have appeared. People developed these mostly driven by the need for additional features on top of the base syntax—such as tables, footnotes, definition lists (technically HTML description lists), and Markdown inside HTML blocks. The behavior of some of these diverges from the reference implementation. At the same time, a number of ambiguities in the informal specification have attracted attention. These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake: "Different sites (and people) have different needs. No one syntax would make all happy."
+  It is a simple language just like markup language i.e (Html) but is more simpler than it or can also be said as lightweight markup language which is simply used for creating certain texts using a simple text editor. The read-me file that you are reading right now is also a markdown file. It's extension is `.md` which stands for markdown. 
 
-- RFC 7763 introduced MIME type ```text/markdown``` with the original variant.
-- RFC 7764 discussed and registered the variants MultiMarkdown, GitHub Flavored Markdown (GFM), Pandoc, CommonMark, and Markdown Extra among others.
-<br>
+  <br>
 
 ### Markdown Cheat Sheets 📖
 
-You can click on link below to learn about the markdown cheat sheets. 👇
+In this section, you will find the easiest way to implement  most of the Markdown syntax elements...
+>Note:- Remember to save the file in `.md` extension to make it markdown.
 
- [Markdown Cheat Sheets](https://www.markdownguide.org/cheat-sheet/)
+There are two types of markdown syntax elements. Namely:-
+1. Basic Syntax 
+2. Extended Syntax
+  
+**Basic Syntax:-** 
+  Generally, basic syntax are the very basic syntax of elements used in md (markdown files) which are supported by all markdown applications. Some basic syntaxes are given below: 👇
+
+**Extended Syntax:-**
+  Basically, these syntax extends the properties or workings of the basic syntax by adding some additional features like creating the tables , fenced block notes and so on. Also, some syntaxes are given below: 👇
+
+<br>
+*For further more information, you can click on link below to learn about the markdown cheat sheets. 👇*
+
+  *[Markdown Cheat Sheets](https://www.markdownguide.org/cheat-sheet/)*
 
 ---
 ## Git
