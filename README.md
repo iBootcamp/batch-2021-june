@@ -59,11 +59,39 @@ There are two types of markdown syntax elements. Namely:-
   
 **Basic Syntax:-** 
   Generally, basic syntax are the very basic syntax of elements used in md (markdown files) which are supported by all markdown applications. Some basic syntaxes are given below: 👇
+| Elements | Syntax |
+| --------- | -------- |
+| Heading  | ` # H1, ## H2, ### H3 ` |
+| Bold text| `** I am bold **` |
+| Italic text | `* I am italic *` |
+| Blockquote | `> For writing blockquote` |
+| Ordered List | `1. abc , 2. yoohoo , 3. I m number 3 and so on` |
+| Unordered List | `- abc , - yohoo, - I m number 3 and so on` |
+| Code | " `` "  |
+| Horizontal line / Margin | `---` |
+| Link | `[title you want](url of it)` |
+| Image | `![alt text](image.jpg)` |
+
+> Note:- 
+> 1. In the syntax of ordered and unordered list you must not use " , " i.e comma in between of 1. 2. and 3.   
+> 2. The syntax used for code is `` called as tics. It's above the tab button in the keyboard.
+<br>
 
 **Extended Syntax:-**
   Basically, these syntax extends the properties or workings of the basic syntax by adding some additional features like creating the tables , fenced block notes and so on. Also, some syntaxes are given below: 👇
-
+| Elements | Syntax |
+| --------- | -------- |
+| Heading  | ` # H1, ## H2, ### H3 ` |
+| Bold text| `** I am bold **` |
+| Italic text | `* I am italic *` |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 <br>
+
 *For further more information, you can click on link below to learn about the markdown cheat sheets. 👇*
 
   *[Markdown Cheat Sheets](https://www.markdownguide.org/cheat-sheet/)*
