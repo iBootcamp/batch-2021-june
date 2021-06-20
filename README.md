@@ -57,7 +57,7 @@ There are two types of markdown syntax elements. Namely:-
 1. Basic Syntax 
 2. Extended Syntax
   
-**Basic Syntax:-** 
+**Basic Syntax:-** <br>
   Generally, basic syntax are the very basic syntax of elements used in md (markdown files) which are supported by all markdown applications. Some basic syntaxes are given below: 👇
 | Elements | Syntax |
 | --------- | -------- |
@@ -65,37 +65,57 @@ There are two types of markdown syntax elements. Namely:-
 | Bold text| `** I am bold **` |
 | Italic text | `* I am italic *` |
 | Blockquote | `> For writing blockquote` |
-| Ordered List | `1. abc , 2. yoohoo , 3. I m number 3 and so on` |
-| Unordered List | `- abc , - yohoo, - I m number 3 and so on` |
-| Code | " `` "  |
+| Ordered List | `1. abc  ` |
+| ... |` 2. yoohoo` |
+| ... |` 3. and so on` |
+| Unordered List | `- abc ` |
+| ... | `- yohoo `|
+| ... | `- I m number 3 and so on` |
+| Code | ` `` `  |
 | Horizontal line / Margin | `---` |
 | Link | `[title you want](url of it)` |
 | Image | `![alt text](image.jpg)` |
+| Comment | ` <!--- This is comment ---> ` |
 
 > Note:- 
-> 1. In the syntax of ordered and unordered list you must not use " , " i.e comma in between of 1. 2. and 3.   
-> 2. The syntax used for code is `` called as tics. It's above the tab button in the keyboard.
+> 1. In the elements section, "..." is used to determine the continuity of above elements. 
+> 2. The syntax used for code is ` `` ` called as tics. It's above the tab button in the keyboard.
 <br>
 
-**Extended Syntax:-**
+**Extended Syntax:-**<br>
   Basically, these syntax extends the properties or workings of the basic syntax by adding some additional features like creating the tables , fenced block notes and so on. Also, some syntaxes are given below: 👇
 | Elements | Syntax |
 | --------- | -------- |
-| Heading  | ` # H1, ## H2, ### H3 ` |
-| Bold text| `** I am bold **` |
-| Italic text | `* I am italic *` |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Footnote | `Here's a sentence with a footnote. [^1]` |
+| .... | ` [^1]: This is the footnote. ` |
+| Fenced Code Block | ` ``` ` |
+| ... | `{` |
+| ... | ` "firstName": "John", "lastName": "Smith", "age": 25` |
+  | ... | `}` |
+| ... | ` ``` ` |
+| Heading ID | `### My Great Heading {#custom-id} `|
+| Definition List | `term` |
+| ... | `: definition` |
+| Strikethrough | `~~The world is flat.~~` |
+| Task List | `- [x] Write the press release` |
+| ... | `- [ ] Update the website` |
+| ... | `- [ ] Contact the media` |
+| Table | ` | Anime | Cartoon | ` |
+| ... | ` | ----- | ------- | ` |
+| ... | ` | Hello | Bye-Bye | ` |
+| ... | ` | Life | Happy    |  ` |
+
+> Note:- 
+> 1. In the elements section, "..." is used to determine the continuity of above elements. 
+> 2. The ` ~ ` symbol is called as 'Tilde' and is present above tab button in the keyboard . Press " SHIFT + ` " to ge tilde ( ~ ) symbol.
 <br>
 
 *For further more information, you can click on link below to learn about the markdown cheat sheets. 👇*
 
   *[Markdown Cheat Sheets](https://www.markdownguide.org/cheat-sheet/)*
 
+  *[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)*
+  
 ---
 ## Git
 
