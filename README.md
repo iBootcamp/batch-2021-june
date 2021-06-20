@@ -45,7 +45,6 @@ Gruber wrote a Perl script, Markdown.pl, which converts marked-up text input to 
 ### What is Markdown in simple language?? 🤔
 
   It is a simple language just like markup language i.e (Html) but is more simpler than it or can also be said as lightweight markup language which is simply used for creating certain texts using a simple text editor. The read-me file that you are reading right now is also a markdown file. It's extension is `.md` which stands for markdown. 
-
   <br>
 
 ### Markdown Cheat Sheets 📖
