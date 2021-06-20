@@ -100,10 +100,10 @@ There are two types of markdown syntax elements. Namely:-
 | Task List | `- [x] Write the press release` |
 | ... | `- [ ] Update the website` |
 | ... | `- [ ] Contact the media` |
-| Table | "` | Anime | Cartoon | `" |
-| ... | "` | ----- | ------- | `" |
-| ... | "` | Hello | Bye-Bye | ` "|
-| ... | "` | Life | Happy    |  `" |
+| Table | ` | Anime | Cartoon | ` |
+| ... | ` | ----- | ------- | ` |
+| ... | ` | Hello | Bye-Bye | ` |
+| ... | ` | Life | Happy    |  ` |
 
 > Note:- 
 > 1. In the elements section, "..." is used to determine the continuity of above elements. 
