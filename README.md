@@ -50,7 +50,7 @@ Repositories &amp; exercises of batch 2021 july.
     - Add Remote
     - Origin
   - Cloning
-    - cloning is the process of copying the github (online cloud / gitlab ) repository to our local memory is known as cloning. 
+    - Cloning is the process of copying the github (online cloud / gitlab ) repository to our local memory is known as cloning. 
   - Untracked files , tracked files & modified files
   - branch (default)
   - ### Status
