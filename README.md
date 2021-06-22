@@ -50,6 +50,7 @@ Repositories &amp; exercises of batch 2021 july.
     - Add Remote
     - Origin
   - Cloning
+    - cloning is the process of copying the github (online cloud / gitlab ) repository to our local memory is known as cloning. 
   - Untracked files , tracked files & modified files
   - branch (default)
   - ### Status
@@ -59,16 +60,16 @@ Repositories &amp; exercises of batch 2021 july.
     1. It shows if there is no git file.<br/>
     ![git status!](photos/no-git-file.JPG)
 
-    2. It shows if there is a need of **add** command.<br/>
+    1. It shows if there is a need of **add** command.<br/>
     ![git status!](photos/add.png)
 
-    3. It shows if **commit** command should be used.<br/>
+    1. It shows if **commit** command should be used.<br/>
     ![git status!](photos/commit.png)
 
-    4. It shows if there has has been a change/modify in the file.<br/>
+    1. It shows if there has has been a change/modify in the file.<br/>
     ![git status!](photos/modified%20.png)
 
-    5. It shows if the file is ready to be pushed.<br/>
+    1. It shows if the file is ready to be pushed.<br/>
     ![git status!](photos/git-status-clear.JPG) <br/>
     >This command helps a user to push their files to cloud by providing them every steps and shows error if there is one.
 
@@ -96,9 +97,6 @@ In order to start learning git, we need to first download and install git. Here 
 - [**Rakesh Shrestha**](https://github.com/aomini)
 - [**shreyash Shrestha**](https://github.com/Shr3yashhh)
 - [**Debrath Sharma**](https://github.com/Madara-coder)
-<<<<<<< HEAD
 - [**Sudesh Acharya**](https://github.com/thesudesh)
-=======
 - [**Sagar Karki**](https://github.com/skarki-afk)
->>>>>>> aba550eae736555e99890c912e44720421cb3459
 ---
