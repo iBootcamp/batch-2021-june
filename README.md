@@ -52,8 +52,36 @@ Repositories &amp; exercises of batch 2021 july.
   - Cloning
   - Untracked files , tracked files & modified files
   - branch (default)
-  - Status
-  - add
+  - ### Status
+    >The command line for **status** is:<br/>
+    `git status`<br/>
+    >In git, **status** command has an important role as:
+    1. It shows if there is no git file.<br/>
+    ![git status!](photos/no-git-file.JPG)
+
+    2. It shows if there is a need of **add** command.<br/>
+    ![git status!](photos/add.png)
+
+    3. It shows if **commit** command should be used.<br/>
+    ![git status!](photos/commit.png)
+
+    4. It shows if there has has been a change/modify in the file.<br/>
+    ![git status!](photos/modified%20.png)
+
+    5. It shows if the file is ready to be pushed.<br/>
+    ![git status!](photos/git-status-clear.JPG) <br/>
+    >This command helps a user to push their files to cloud by providing them every steps and shows error if there is one.
+
+ 
+
+  - ### Add
+    >The command line for **add** is:<br/>
+    `git add *filename*` or `git add .` where "." means all files. <br/>
+    ![git add filename](photos/add-read.JPG)<br/>
+    ![git add .](photos/add-.JPG)<br/>
+    >This command is used whenever there is a change in the file. Without this command,**commit** command cannot be executed.
+
+
   - commit
   - alias
   - diff
@@ -68,5 +96,9 @@ In order to start learning git, we need to first download and install git. Here 
 - [**Rakesh Shrestha**](https://github.com/aomini)
 - [**shreyash Shrestha**](https://github.com/Shr3yashhh)
 - [**Debrath Sharma**](https://github.com/Madara-coder)
+<<<<<<< HEAD
 - [**Sudesh Acharya**](https://github.com/thesudesh)
+=======
+- [**Sagar Karki**](https://github.com/skarki-afk)
+>>>>>>> aba550eae736555e99890c912e44720421cb3459
 ---
