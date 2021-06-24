@@ -49,8 +49,7 @@ Repositories &amp; exercises of batch 2021 july.
   - Initialize a repo
   - Remote
     - Add Remote
-    - Origin
-  - Cloning
+    - Ori  - Cloning
   - Untracked files , tracked files & modified files
   - branch (default)
   - ### Status
@@ -67,14 +66,14 @@ Repositories &amp; exercises of batch 2021 july.
       2. It shows if there is a need of **add** command.<br/>
         ![git status!](photos/add.png)
 
-       3. It shows if **commit** command should be used.<br/>
-        ![git status](photos/commit.png)
+      3. It shows if **commit** command should be used.<br/>
+        ![git status](photos/commit2.png)
 
       4. It shows if there has has been a change/modify in the file.<br/>
         ![git status!](photos/modified%20.png)
 
       5. It shows if the file is ready to be pushed.<br/>
-        ![git status!](photos/git-status-clear.JPG) <br/>
+        ![git status!](photos/push2.JPG) <br/>
       > This command helps a user to push their files to cloud by providing them every steps and shows error if there is one.
 
   - ### Add
