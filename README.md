@@ -52,8 +52,8 @@ Repositories &amp; exercises of batch 2021 july.
   - Cloning
   - Untracked files , tracked files & modified files
   - branch (default)
-  - Status
-  - add
+  - Status <br> Status  command is the command in git that displays the state of the working directory and the staging area . It lets us see what changes have been made. Mostly, it is used to display the state between Git Add and Git commit . <br> To use a status command in git we execute command : $ git status command once the file is created.  
+  - add <br> add command is a command in git that adds the changes made in the working directory to the staging area. It is an important command , without it no git commit would ever do anything. <br> To add a particular file , we use the command : $ git add whereas to add all changed file we use command: $ git add . command. 
   - commit
   - alias
   - diff
@@ -69,4 +69,5 @@ In order to start learning git, we need to first download and install git. Here 
 - [**shreyash Shrestha**](https://github.com/Shr3yashhh)
 - [**Debrath Sharma**](https://github.com/Madara-coder)
 - [**Sudesh Acharya**](https://github.com/thesudesh)
+- [**Agya Aryal**](https://github.com/AagyaAryal)
 ---
