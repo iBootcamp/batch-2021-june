@@ -148,29 +148,27 @@ There are two types of markdown syntax elements. Namely:-
   - Initialize a repo
   - Remote<br>
       
-    >A git remote is a reference to the GitHub repositories which do not provide any real-time access to what you do locally.It can be used to connect to your own repository  or to connect to someone else’s repository.
-    
+    >Simply it's a path that helps to connect with repository.
 
-    >The command line for **remote** is:<br>
+
+   - Add Remote<br>
+     >To add remote we have to give command at first.
+     The Command line is:<br>
     `git remote add <name><(repository url)>`<br>
-    Add: To add a new URL to the repository.
-    Name: To give a name that you will use instead of the URL of the repository.
-    URL: The URL of the repository.
+     >Here, name=simply alias that is used instead of repository url
+  
+     <br> ![remote](photos/remote/remote.PNG)
 
-    
-    <br> ![remote](photos/remote/remote.PNG)
+     >`git remote` command is used to check whether we are connected with our repository or not.
 
-    ><br>To check whether we linked our repository or not we have to execute git remote command.
-
-    >The command line for it is `git remote`
-
-    <br> ![remote](photos/remote/a.PNG)
-
-    > As seen, the origin repository (alias for the GitHub myFirstRepo repository) is available,  to view the same result along with the URL the command line used is `git remote -v`
+     <br> ![remote](photos/remote/a.PNG)
+     
+     >To see the url link also of the repository along with remote, `git remote -v` command is used.
 
      <br> ![remote](photos/remote/v.PNG)
-    - Add Remote
-    - Origin
+
+    - Origin<br>
+      >It is the common name given to the remote repository by the system.We can also change the alias name if we want by using `git remote rename origin mynewalias`
   - Cloning
 
     > Cloning is the process of copying the github(online cloud / gitlab ) repository to our local memory. We can clone the repo by copying the repo url from github/gitlab.
