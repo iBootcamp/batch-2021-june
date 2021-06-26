@@ -17,12 +17,7 @@ ___
   - [Git](#git)
   - [Guides](#guides)
   - [Why do we use git](#why-do-we-use-git)
-  - [2. It allows saving copies of project for backups.](#2-it-allows-saving-copies-of-project-for-backups)
   - [Conclusion](#conclusion)
-  - [In conclusion, it’s important to understand that GIT comes as a savior in many aspects of web application development activities. If you’re in charge of a web development team and want to ensure smooth running and hassle-free project execution, the GIT software is highly recommended.](#in-conclusion-its-important-to-understand-that-git-comes-as-a-savior-in-many-aspects-of-web-application-development-activities-if-youre-in-charge-of-a-web-development-team-and-want-to-ensure-smooth-running-and-hassle-free-project-execution-the-git-software-is-highly-recommended)
-  - [Contributers](#contributers)
-  - [- **Ritika Budhathoki**](#--ritika-budhathoki)
-  
   - [Contributers](#contributers)
   
    
