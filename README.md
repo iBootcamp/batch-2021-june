@@ -70,8 +70,6 @@ Repositories &amp; exercises of batch 2021 july.
 
     > The command line for **clone** is:<br>
     > `git clone <remote path(repository url)>`<br>
-
-    
     > How can we clone github repository?<br>
 
     - Create a new folder where you want to clone new directory.<br>
@@ -93,6 +91,8 @@ Repositories &amp; exercises of batch 2021 july.
     ![clone-result](photos/clone/clone-1.PNG)
     <br>
 
+    ![clone-result](photos/clone/clone-1.PNG)
+    <br>
   - Untracked files , tracked files & modified files
   - branch (default)
   - status
