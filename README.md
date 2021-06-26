@@ -227,4 +227,4 @@ In order to start learning git, we need to first download and install git. Here 
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Sagar Karki**](https://github.com/skarki-afk)
 - [**Manjila Shakya**]()
----
+- [**Ashmita Shrestha**](https://github.com/Ashmita0601)
