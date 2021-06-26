@@ -16,6 +16,8 @@ ___
     - [Markdown Cheat Sheets 📖](#markdown-cheat-sheets-)
   - [Git](#git)
   - [Guides](#guides)
+  - [Why do we use git](#why-do-we-use-git)
+  - [Conclusion](#conclusion)
   - [Contributers](#contributers)
   - [- **Ritika Budhathoki**](#--ritika-budhathoki)
 
@@ -140,7 +142,8 @@ There are two types of markdown syntax elements. Namely:-
         |7. Minimal external tool                       |7. Active marketplace for tool integration     |
         |8. Open source licened                         |8. Inludes a free tier and pay-for-use tiers   |
 
-  - Motivation
+  - 
+  - 
 
 - Guides
 - Documentation
@@ -161,14 +164,14 @@ There are two types of markdown syntax elements. Namely:-
     
     > How can we clone github repository?<br>
 
-    - Create a new folder where you want to clone new directory.<br>
-    - Open git bash inside that folder.<br>
-    - Then go to github to the page of repository that you want to clone.<br>
-    - Click on the code on the upper right corner where you can find the url to clone your repository.<br/>
+    1. Create a new folder where you want to clone new directory.<br>
+    2. Open git bash inside that folder.<br>
+    3.  Then go to github to the page of repository that you want to clone.<br>
+    4. Click on the code on the upper right corner where you can find the url to clone your repository.<br/>
 
     ![clone](photos/clone/gitclonecode.PNG)
 
-    - Now copy the code and use the command line to clone your repository
+    5. Now copy the code and use the command line to clone your repository
 
     <br>
     
@@ -195,7 +198,18 @@ There are two types of markdown syntax elements. Namely:-
 In order to start learning git, we need to first download and install git. Here is the link for git: <br/> `https://git-scm.com/downloads`
 
 ---
+ 
+## Why do we use git
 
+GIT is a program that works as a distributed revision control and source code management system. It allows safe data integrity, by distributing as well as providing non-linear work-flows when two or more developers are working on the same project.It facilitates different developers to work safely on a particular task without facing any hassles.It is important to know that the GIT software is free, but it is distributed under the terms and conditions of the GNU general public license.
+
+ It plays an important role by ensuring that all web development tasks are done smoothly without any major issues. Some of its reason for becoming most use softarwe for web developers are:
+ 1. It allows you to have several versions of a project at the same time.
+1. It allows more than one developer to work on a project.
+ 2. It allows saving copies of project for backups.
+   
+## Conclusion
+In conclusion, it’s important to understand that GIT comes as a savior in many aspects of [web application development](https://www.aapnainfotech.com/wp-content/uploads/2020/06/web-application-development-company.jpg) activities. If you’re in charge of a web development team and want to ensure smooth running and hassle-free project execution, the GIT software is highly recommended.
 ## Contributers
 
 - [**Rakesh Shrestha**](https://github.com/aomini)
@@ -203,6 +217,6 @@ In order to start learning git, we need to first download and install git. Here 
 - [**Debrath Sharma**](https://github.com/Madara-coder)
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Sagar Karki**](https://github.com/skarki-afk)
-- [**Manjila Shakya**]()
+- [**Manjila Shakya**](https://github.com/Manjila762)
 - [**Ritika Budhathoki**](https://github.com/Ritika0772)
 ---
