@@ -3,10 +3,15 @@
 
 Repositories &amp; exercises of batch 2021 july.
 
+## PREFACE
+   This file and repository falls under the joint collaboration of students who participated in the Ibootcamp's very first session of lessons regarding git and github for absolute beginners. Batch-2021-june is the starting project that contains the depiction of the students' experiences while learning at this bootcamp with the hopes of creating a valuable asset for the future campers and beginners as well as to keep the track of our own development.
+
+
 ___
 ## Table of Contents
 
 - [BATCH-2021-June](#batch-2021-june)
+  - [PREFACE](#preface)
   - [Table of Contents](#table-of-contents)
   - [Setup and installation](#setup-and-installation)
   - [Markdown ✨](#markdown-)
@@ -17,7 +22,7 @@ ___
   - [Git](#git)
   - [Guides](#guides)
   - [Contributers](#contributers)
-  - [- **Manjila Shakya**](#--manjila-shakya)
+  - [- **Pawan Tamang**](#--pawan-tamang)
 
 ___
 
@@ -185,7 +190,23 @@ There are two types of markdown syntax elements. Namely:-
   - status
   - add
   - commit
-  - alias
+  - ##Alias
+Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:
+
+Long commands can be shortened and thus made more memorable.
+Commands that is used frequently can be shortened for more efficient use.
+How to define and use aliases
+You can use git config command with the alias and the command you want to substitute. For example, to create the alias p for git push:
+
+$ git config --global alias.p 'push'
+
+This enables us to use the command git p like any other git command whenever you have to use git push command.
+
+To see all your aliases:
+
+$ git config --global -l
+
+Regardless of the method you use, defining aliases improves your overall experience with Git.
   - diff
   - Advanced branch
 
@@ -204,4 +225,5 @@ In order to start learning git, we need to first download and install git. Here 
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Sagar Karki**](https://github.com/skarki-afk)
 - [**Manjila Shakya**]()
+- [**Pawan Tamang**](https://github.com/wreck22)
 ---
