@@ -17,7 +17,7 @@ ___
   - [Git](#git)
   - [Guides](#guides)
   - [Contributers](#contributers)
-  - [- **Manjila Shakya**](#--manjila-shakya)
+  - [- **Ritika Budhathoki**](#--ritika-budhathoki)
 
 ___
 
@@ -204,4 +204,5 @@ In order to start learning git, we need to first download and install git. Here 
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Sagar Karki**](https://github.com/skarki-afk)
 - [**Manjila Shakya**]()
+- [**Ritika Budhathoki**](https://github.com/Ritika0772)
 ---
