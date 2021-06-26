@@ -190,23 +190,24 @@ There are two types of markdown syntax elements. Namely:-
   - status
   - add
   - commit
-  - ##Alias
-Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:
+  - ## Alias  
+  
+      Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:
 
-Long commands can be shortened and thus made more memorable.
-Commands that is used frequently can be shortened for more efficient use.
-How to define and use aliases
-You can use git config command with the alias and the command you want to substitute. For example, to create the alias p for git push:
+      Long commands can be shortened and thus made more memorable.
+      Commands that is used frequently can be shortened for more efficient use.
+      How to define and use aliases
+      You can use git config command with the alias and the command you want to substitute. For example, to create the alias p for git push:
 
-$ git config --global alias.p 'push'
+      ![alias](photos\alias.PNG)  
 
-This enables us to use the command git p like any other git command whenever you have to use git push command.
+      This enables us to use the command git p like any other git command whenever you have to use git push command.
 
-To see all your aliases:
+      To see all your aliases:
 
-$ git config --global -l
+      ![list](photos\list.PNG)
 
-Regardless of the method you use, defining aliases improves your overall experience with Git.
+      Regardless of the method you use, defining aliases improves your overall experience with Git.
   - diff
   - Advanced branch
 
