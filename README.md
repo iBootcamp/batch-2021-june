@@ -22,7 +22,6 @@ ___
   - [Git](#git)
   - [Guides](#guides)
   - [Contributers](#contributers)
-  - [- **Pawan Tamang**](#--pawan-tamang)
 
 ___
 
@@ -227,4 +226,6 @@ In order to start learning git, we need to first download and install git. Here 
 - [**Sagar Karki**](https://github.com/skarki-afk)
 - [**Manjila Shakya**]()
 - [**Pawan Tamang**](https://github.com/wreck22)
+
+
 ---
