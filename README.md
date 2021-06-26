@@ -148,7 +148,7 @@ There are two types of markdown syntax elements. Namely:-
   - Initialize a repo
   - Remote
     - Add Remote
-    - Origin
+      - Origin
   - Cloning
 
     > Cloning is the process of copying the github(online cloud / gitlab ) repository to our local memory. We can clone the repo by copying the repo url from github/gitlab.
@@ -161,14 +161,14 @@ There are two types of markdown syntax elements. Namely:-
     
     > How can we clone github repository?<br>
 
-    - Create a new folder where you want to clone new directory.<br>
-    - Open git bash inside that folder.<br>
-    - Then go to github to the page of repository that you want to clone.<br>
-    - Click on the code on the upper right corner where you can find the url to clone your repository.<br/>
+    1. Create a new folder where you want to clone new directory.<br>
+    1. Open git bash inside that folder.<br>
+    1. Then go to github to the page of repository that you want to clone.<br>
+    1. Click on the code on the upper right corner where you can find the url to clone your repository.<br/>
 
     ![clone](photos/clone/gitclonecode.PNG)
 
-    - Now copy the code and use the command line to clone your repository
+    1. Now copy the code and use the command line to clone your repository.
 
     <br>
     
@@ -182,26 +182,62 @@ There are two types of markdown syntax elements. Namely:-
 
   - Untracked files , tracked files & modified files
   - branch (default)
-  - status
-  - add
+  - ### Status
+
+      > The **status** command is a command that shows the situation of a working directory in git. It lets you see whether files have been staged or not and if the files have been tracked.
+
+      > The command line for **status** is:<br/>
+      > `git status`<br/>
+      
+      > In git, **status** command has an important role as:
+
+      1. It shows if there is no git file.<br/>
+        ![git status!](photos/no-git-file.JPG)
+
+      2. It shows if there is a need of **add** command.<br/>
+        ![git status!](photos/add.png)
+
+      3. It shows if **commit** command should be used.<br/>
+        ![git status](photos/commit2.png)
+
+      4. It shows if there has has been a change/modify in the file.<br/>
+        ![git status!](photos/modified%20.png)
+
+      5. It shows if the file is ready to be pushed.<br/>
+        ![git status!](photos/push2.JPG) <br/>
+      > This command helps a user to push their files to cloud by providing them every steps and shows error if there is one.
+
+  - ### Add
+
+    > The **add** command is used whenever there is a change in the file. It tells git that you want to include updates to a particular file in the next commit. The **add** command actually doesn't records the changes. Updates can be recorded only after running **commit** command. But, the **commit** command can only run after executing the **add** command.
+
+    The command line for **add** is:<br/>
+    `git add 'filename'` or `git add .` where "." means all files. <br/>
+    ![git add filename](photos/add-read.JPG)<br/>
+    ![git add .](photos/add-.JPG)<br/>
+
+  
+ 
   - commit
   - alias
   - diff
   - Advanced branch
+
 
 ---
 ## Guides
 
 In order to start learning git, we need to first download and install git. Here is the link for git: <br/> `https://git-scm.com/downloads`
 
+
 ---
 
 ## Contributers
 
 - [**Rakesh Shrestha**](https://github.com/aomini)
-- [**shreyash Shrestha**](https://github.com/Shr3yashhh)
+- [**Shreyash Shrestha**](https://github.com/Shr3yashhh)
 - [**Debrath Sharma**](https://github.com/Madara-coder)
-- [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Sagar Karki**](https://github.com/skarki-afk)
-- [**Manjila Shakya**]()
+- [**Sudesh Acharya**](https://github.com/thesudesh)
+- [**Manjila Shakya**](https://github.com/Manjila762)
 ---
