@@ -73,6 +73,8 @@ Repositories &amp; exercises of batch 2021 july.
     ![clone](photos/clone/clone.PNG)
     <br>
     >The result after cloning the repository:<br>
+
+    
     ![clone-result](photos/clone/clone-1.PNG)
     <br>
 
