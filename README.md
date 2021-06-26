@@ -146,7 +146,29 @@ There are two types of markdown syntax elements. Namely:-
 - Documentation
 
   - Initialize a repo
-  - Remote
+  - Remote<br>
+      
+    >A git remote is a reference to the GitHub repositories which do not provide any real-time access to what you do locally.It can be used to connect to your own repository  or to connect to someone else’s repository.
+    
+
+    >The command line for **remote** is:<br>
+    `git remote add <name><(repository url)>`<br>
+    Add: To add a new URL to the repository.
+    Name: To give a name that you will use instead of the URL of the repository.
+    URL: The URL of the repository.
+
+    
+    <br> ![remote](photos/remote/remote.PNG)
+
+    ><br>To check whether we linked our repository or not we have to execute git remote command.
+
+    >The command line for it is `git remote`
+
+    <br> ![remote](photos/remote/a.PNG)
+
+    > As seen, the origin repository (alias for the GitHub myFirstRepo repository) is available,  to view the same result along with the URL the command line used is `git remote -v`
+
+     <br> ![remote](photos/remote/v.PNG)
     - Add Remote
     - Origin
   - Cloning
@@ -157,6 +179,7 @@ There are two types of markdown syntax elements. Namely:-
 
     > The command line for **clone** is:<br>
     > `git clone <remote path(repository url)>`<br>
+
 
     
     > How can we clone github repository?<br>
