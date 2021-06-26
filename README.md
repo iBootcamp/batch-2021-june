@@ -49,16 +49,25 @@ Repositories &amp; exercises of batch 2021 july.
   - Remote
     - Add Remote
     - Origin
-  - Clone
-    > Clone is the process of copying the github (online cloud / gitlab ) repository to our local memory.
+  - Cloning
+    > Cloning is the process of copying the github(online cloud / gitlab ) repository to our local memory. We can clone the repo by copying the repo url from github/gitlab.
+    <br>
+    >How can we clone github repository?<br>
+      - Create a new folder where you want cloned directory to be added.
+      - Open git bash inside that folder.
+      - Then go to github to the page of repository that you want to clone.
+      - Click on the code on the upper right corner where you can find the  url to clone your repository.<br/>
+  
+     ![clone](photos/clone/gitclonecode.PNG)
+      - Now copy the code and use the command line to clone your repository
  
     >The command line for **clone** is:<br>
     `git clone <remote path(repository url)>`
     <br>
-    ![clone](photos/clone/clone.png)
+    ![clone](photos/clone/clone.PNG)
     <br>
     >The result after cloning the repository:<br>
-    ![clone-result](photos/clone/clone-1.png)
+    ![clone-result](photos/clone/clone-1.PNG)
     <br>
   - Untracked files , tracked files & modified files
   - branch (default)
