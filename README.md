@@ -214,7 +214,7 @@ GIT is a program that works as a distributed revision control and source code ma
   --- 
 ## Conclusion
 In conclusion, it’s important to understand that GIT comes as a savior in many aspects of [web application development](https://www.aapnainfotech.com/wp-content/uploads/2020/06/web-application-development-company.jpg) activities. If you’re in charge of a web development team and want to ensure smooth running and hassle-free project execution, the GIT software is highly recommended.
----
+
 
 
 ## Contributers
