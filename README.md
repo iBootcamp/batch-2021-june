@@ -20,6 +20,7 @@ ___
   - [Conclusion](#conclusion)
   - [Contributers](#contributers)
   - [- **Ritika Budhathoki**](#--ritika-budhathoki)
+  )
 
 ___
 
