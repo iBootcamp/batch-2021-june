@@ -198,13 +198,13 @@ There are two types of markdown syntax elements. Namely:-
       How to define and use aliases
       You can use git config command with the alias and the command you want to substitute. For example, to create the alias p for git push:
 
-      ![alias](photos\alias.PNG)  
+      ![alias](photos/alias.PNG)  
 
       This enables us to use the command git p like any other git command whenever you have to use git push command.
 
       To see all your aliases:
 
-      ![list](photos\list.PNG)
+      ![list](photos/list.PNG)
 
       Regardless of the method you use, defining aliases improves your overall experience with Git.
   - diff
