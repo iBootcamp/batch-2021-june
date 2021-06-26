@@ -56,8 +56,12 @@ Repositories &amp; exercises of batch 2021 july.
 
     > Cloning is the process of copying the github(online cloud / gitlab ) repository to our local memory. We can clone the repo by copying the repo url from github/gitlab.
     > <br>
+
+
     > The command line for **clone** is:<br>
     > `git clone <remote path(repository url)>`<br>
+
+    
     > How can we clone github repository?<br>
 
     - Create a new folder where you want to clone new directory.<br>
@@ -70,44 +74,17 @@ Repositories &amp; exercises of batch 2021 july.
     - Now copy the code and use the command line to clone your repository
 
     <br>
+    
     ![clone](photos/clone/clone.PNG)
     <br>
     >The result after cloning the repository:<br>
-    ![clone-result](photos/clone/clone-1.PNG)
+    ![clone](photos/clone/clone-1.PNG)
     <br>
 
   - Untracked files , tracked files & modified files
   - branch (default)
-  - ### Status
-
-    > The command line for **status** is:<br/>
-    > `git status`<br/>
-    > In git, **status** command has an important role as:
-
-    1. It shows if there is no git file.<br/>
-       ![git status!](photos/no-git-file.JPG)
-
-    1. It shows if there is a need of **add** command.<br/>
-       ![git status!](photos/add.png)
-
-    1. It shows if **commit** command should be used.<br/>
-       ![git status!](photos/commit.png)
-
-    1. It shows if there has has been a change/modify in the file.<br/>
-       ![git status!](photos/modified%20.png)
-
-    1. It shows if the file is ready to be pushed.<br/>
-       ![git status!](photos/git-status-clear.JPG) <br/>
-       > This command helps a user to push their files to cloud by providing them every steps and shows error if there is one.
-
-  - ### Add
-
-    > The command line for **add** is:<br/>
-    > `git add *filename*` or `git add .` where "." means all files. <br/>
-    > ![git add filename](photos/add-read.JPG)<br/>
-    > ![git add .](photos/add-.JPG)<br/>
-    > This command is used whenever there is a change in the file. Without this command,**commit** command cannot be executed.
-
+  - status
+  - add
   - commit
   - alias
   - diff
