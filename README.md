@@ -24,7 +24,6 @@ This file and repository falls under the joint collaboration of students who par
   - [Why do we use git?](#why-do-we-use-git)
   - [Conclusion](#conclusion)
   - [Contributers](#contributers)
-  - [- **Amisha Rijal**](#--amisha-rijal)
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/iBootcamp/batch-2021-june)
@@ -312,4 +311,6 @@ In conclusion, it’s important to understand that GIT comes as a savior in many
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Pawan Tamang**](https://github.com/wreck22)
 - [**Amisha Rijal**](https://github.com/rijalamisha21)
+
+
 ---
