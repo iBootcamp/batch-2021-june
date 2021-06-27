@@ -17,6 +17,7 @@ ___
   - [Git](#git)
   - [Guides](#guides)
   - [Why do we use git?](#why-do-we-use-git)
+  - [1. It allows saving copies of project for backups.](#1-it-allows-saving-copies-of-project-for-backups)
   - [Conclusion](#conclusion)
   - [Contributers](#contributers)
  
@@ -224,7 +225,23 @@ There are two types of markdown syntax elements. Namely:-
 
   
  
-  - commit
+  - ### Commit
+      
+  
+    >The **commit** command is used to save your changes to the local repository.
+  
+    **Command Line for commit :** <br>
+
+    - `"-m" ` parameter sets the commit's message : 
+        `git commit -m "changes message" ` <br>
+        ![git-commit]()
+
+    - ` "-a" ` parameter includes all currently changed files in the commit : git
+    - 
+
+   - `"--amend" ` parameter rewrites the very last commit with any currently staged changes and/or a new commit message : 
+
+  - 
   - alias
   - diff
   - Advanced branch
