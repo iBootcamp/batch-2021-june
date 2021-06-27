@@ -26,6 +26,7 @@ This file and repository falls under the joint collaboration of students who par
   - [Contributers](#contributers)
   - [- **Amisha Rijal**](#--amisha-rijal)
 
+
 ![GitHub contributors](https://img.shields.io/github/contributors/iBootcamp/batch-2021-june)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ibootcamp/batch-2021-june)
@@ -230,7 +231,7 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
        ![git add filename](photos/add-read.JPG)
        <br>
        ![git add .](photos/add-.JPG)<br/>
-
+  
   - ### Commit
 
     > The **commit** command is used to save your changes to the local repository.
@@ -251,8 +252,8 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 
       ![git-commit](photos/clone/git-commit3.png)
 
-  - commit
-  - ## Alias
+  ---
+ - ## Alias
 
     Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:
 
