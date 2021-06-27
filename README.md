@@ -25,6 +25,7 @@ This file and repository falls under the joint collaboration of students who par
   - [Conclusion](#conclusion)
   - [Contributers](#contributers)
 
+
 ![GitHub contributors](https://img.shields.io/github/contributors/iBootcamp/batch-2021-june)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ibootcamp/batch-2021-june)
@@ -222,13 +223,36 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 
     > The **add** command is used whenever there is a change in the file. It tells git that you want to include updates to a particular file in the next commit. The **add** command actually doesn't records the changes. Updates can be recorded only after running **commit** command. But, the **commit** command can only run after executing the **add** command.
 
-    The command line for **add** is:<br/>
-    `git add 'filename'` or `git add .` where "." means all files. <br/>
-    ![git add filename](photos/add-read.JPG)<br/>
-    ![git add .](photos/add-.JPG)<br/>
+    The command line for **add** is:
 
-  - commit
-  - ## Alias
+         `git add 'filename'` or `git add .` where "." means all files. 
+        
+       ![git add filename](photos/add-read.JPG)
+       <br>
+       ![git add .](photos/add-.JPG)<br/>
+  
+  - ### Commit
+
+    > The **commit** command is used to save your changes to the local repository.
+
+    **Command Line for commit :** <br>
+
+    - `"-m" ` parameter sets the commit's message : <br>
+      `git commit -m "changes message" ` <br>
+      ![git-commit](photos/clone/git-commit1.png)
+
+    - `"-a"` parameter includes all currently changed files in the commit :<br>
+      `git commit -a ` <br>
+
+      ![git-commit](photos/clone/git-commit2.png)
+
+    - `"--amend" ` parameter rewrites the very last commit with any currently staged changes and/or a new commit message :<br>
+      ` git commit --amend`
+
+      ![git-commit](photos/clone/git-commit3.png)
+
+  ---
+ - ## Alias
 
     Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:
 
@@ -286,5 +310,7 @@ In conclusion, it’s important to understand that GIT comes as a savior in many
 - [**Ritika Budhathoki**](https://github.com/Ritika0772)
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Pawan Tamang**](https://github.com/wreck22)
+- [**Amisha Rijal**](https://github.com/rijalamisha21)
+
 
 ---
