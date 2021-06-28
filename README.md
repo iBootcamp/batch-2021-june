@@ -147,17 +147,16 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
     > Github is a online cloude aka online storage where we can keep our program file and documents mostly software data or codes over there. Github makes use of git hence we can view our commits and changes in github aslw well. We use git command to push local data(PC data) from our local repository(add link) to Github repository(Remote). In github we can get open source code and use it freely by cloning in our local computer. There are other similiar platform like gitlab bitbucket and many more.
   - Git vs Github
 
-        | Git                                           | Github                                        |
-        | -------------                                 | -------------                                 |
-        |1. Installed locally                           |1. Hosted in the cloud                         |
-        |2. First released in 2005                      |2. Company launched in 2008                    |
-        |3. Focused on version control and sharing      |3. Focused on centralized source code hosting  |
-        |4. Primarily a command line tool               |4. Administered through the web                |
-        |5. Provides a desktop interface named Git Gui  |5. Desktop interface named Github Desktop      |
-        |6. No user management                          |6. Built-in user management                    |
-        |7. Minimal external tool                       |7. Active marketplace for tool integration     |
-        |8. Open source licened                         |8. Inludes a free tier and pay-for-use tiers   |
-
+    | Git | Github |
+    |  --- | ----- |
+    |1. Installe locally |1. Hosted in the  cloud |
+    |2. First released in 2005 |2. Company launched in 2008 |
+    |3. Focused on version control and sharing |3. Focused on centralized source code hosting |            
+    |4. Primarily a command line tool |4. Administered through the web |     
+    |5. Provides a desktop interface named Git Gui  |5. Desktop interface named Github Desktop      |
+    |6. No use management | 6. Built-in management |     |
+    |7. Minimal external tool | 7. Active marketplace for tool integration |
+    |8. Open source licened |8. Inludes a free tier and pay-for-use tiers |
 - Guides
 - Documentation
 
