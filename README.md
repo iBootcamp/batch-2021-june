@@ -1,12 +1,17 @@
 # BATCH-2021-June
 
-
 Repositories &amp; exercises of batch 2021 july.
 
-___
+## PREFACE
+
+This file and repository falls under the joint collaboration of students who participated in the Ibootcamp's very first session of lessons regarding git and github for absolute beginners. Batch-2021-june is the starting project that contains the depiction of the students' experiences while learning at this bootcamp with the hopes of creating a valuable asset for the future campers and beginners as well as to keep the track of our own development.
+
+---
+
 ## Table of Contents
 
 - [BATCH-2021-June](#batch-2021-june)
+  - [PREFACE](#preface)
   - [Table of Contents](#table-of-contents)
   - [Setup and installation](#setup-and-installation)
   - [Markdown ✨](#markdown-)
@@ -17,20 +22,21 @@ ___
   - [Git](#git)
   - [Guides](#guides)
   - [Why do we use git?](#why-do-we-use-git)
-  - [1. It allows saving copies of project for backups.](#1-it-allows-saving-copies-of-project-for-backups)
   - [Conclusion](#conclusion)
   - [Contributers](#contributers)
- 
- ![GitHub contributors](https://img.shields.io/github/contributors/iBootcamp/batch-2021-june)
 
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ibootcamp/batch-2021-june)
 
-  ![GitHub last commit](https://img.shields.io/github/last-commit/iBootcamp/batch-2021-june)
-___
+![GitHub contributors](https://img.shields.io/github/contributors/iBootcamp/batch-2021-june)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ibootcamp/batch-2021-june)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/iBootcamp/batch-2021-june)
+
+---
 
 ## Setup and installation
 
->First, you need to clone the repository inorder to access the content. <br/>  `git clone https://github.com/iBootcamp/batch-2021-june.git`
+> First, you need to clone the repository inorder to access the content. <br/> `git clone https://github.com/iBootcamp/batch-2021-june.git`
 
 ---
 
@@ -52,53 +58,56 @@ Gruber wrote a Perl script, Markdown.pl, which converts marked-up text input to 
 
 ### What is Markdown in simple language?? 🤔
 
-  It is a simple language just like markup language i.e (Html) but is more simpler than it or can also be said as lightweight markup language which is simply used for creating certain texts using a simple text editor. The read-me file that you are reading right now is also a markdown file. It's extension is `.md` which stands for markdown. 
-  <br>
+It is a simple language just like markup language i.e (Html) but is more simpler than it or can also be said as lightweight markup language which is simply used for creating certain texts using a simple text editor. The read-me file that you are reading right now is also a markdown file. It's extension is `.md` which stands for markdown.
+<br>
 
 ### Markdown Cheat Sheets 📖
 
-In this section, you will find the easiest way to implement  most of the Markdown syntax elements...
->Note:- Remember to save the file in `.md` extension to make it markdown.
+In this section, you will find the easiest way to implement most of the Markdown syntax elements...
+
+> Note:- Remember to save the file in `.md` extension to make it markdown.
 
 There are two types of markdown syntax elements. Namely:-
-1. Basic Syntax 
+
+1. Basic Syntax
 2. Extended Syntax
-  
+
 **Basic Syntax:-** <br>
-  Generally, basic syntax are the very basic syntax of elements used in md (markdown files) which are supported by all markdown applications. Some basic syntaxes are given below: 👇
+Generally, basic syntax are the very basic syntax of elements used in md (markdown files) which are supported by all markdown applications. Some basic syntaxes are given below: 👇
 | Elements | Syntax |
 | --------- | -------- |
-| Heading  | ` # H1, ## H2, ### H3 ` |
+| Heading | `# H1, ## H2, ### H3` |
 | Bold text| `** I am bold **` |
 | Italic text | `* I am italic *` |
 | Blockquote | `> For writing blockquote` |
-| Ordered List | `1. abc  ` |
+| Ordered List | `1. abc ` |
 | ... |` 2. yoohoo` |
 | ... |` 3. and so on` |
 | Unordered List | `- abc ` |
 | ... | `- yohoo `|
 | ... | `- I m number 3 and so on` |
-| Code | ` `` `  |
+| Code | ` `` ` |
 | Horizontal line / Margin | `---` |
 | Link | `[title you want](url of it)` |
 | Image | `![alt text](image.jpg)` |
-| Comment | ` <!--- This is comment ---> ` |
+| Comment | `<!--- This is comment --->` |
 
-> Note:- 
-> 1. In the elements section, "..." is used to determine the continuity of above elements. 
+> Note:-
+>
+> 1. In the elements section, "..." is used to determine the continuity of above elements.
 > 2. The syntax used for code is ` `` ` called as tics. It's above the tab button in the keyboard.
-<br>
+>    <br>
 
 **Extended Syntax:-**<br>
-  Basically, these syntax extends the properties or workings of the basic syntax by adding some additional features like creating the tables , fenced block notes and so on. Also, some syntaxes are given below: 👇
+Basically, these syntax extends the properties or workings of the basic syntax by adding some additional features like creating the tables , fenced block notes and so on. Also, some syntaxes are given below: 👇
 | Elements | Syntax |
 | --------- | -------- |
 | Footnote | `Here's a sentence with a footnote. [^1]` |
-| .... | ` [^1]: This is the footnote. ` |
+| .... | `[^1]: This is the footnote.` |
 | Fenced Code Block | ` ``` ` |
 | ... | `{` |
 | ... | ` "firstName": "John", "lastName": "Smith", "age": 25` |
-  | ... | `}` |
+| ... | `}` |
 | ... | ` ``` ` |
 | Heading ID | `### My Great Heading {#custom-id} `|
 | Definition List | `term` |
@@ -107,23 +116,25 @@ There are two types of markdown syntax elements. Namely:-
 | Task List | `- [x] Write the press release` |
 | ... | `- [ ] Update the website` |
 | ... | `- [ ] Contact the media` |
-| Table | ``` | Anime | Cartoon | ``` |
-| ... | ``` | ----- | ------- | ``` |
-| ... | ``` | Hello | Bye-Bye | ``` |
-| ... | ``` | Life | Happy    |  ``` |
+| Table | `| Anime | Cartoon |` |
+| ... | `| ----- | ------- |` |
+| ... | `| Hello | Bye-Bye |` |
+| ... | `| Life | Happy | ` |
 
-> Note:- 
-> 1. In the elements section, "..." is used to determine the continuity of above elements. 
-> 2. The ` ~ ` symbol is called as 'Tilde' and is present above tab button in the keyboard . Press " SHIFT + ` " to ge tilde ( ~ ) symbol.
-<br>
+> Note:-
+>
+> 1. In the elements section, "..." is used to determine the continuity of above elements.
+> 2. The `~` symbol is called as 'Tilde' and is present above tab button in the keyboard . Press " SHIFT + ` " to ge tilde ( ~ ) symbol.
+>    <br>
 
-*For further more information, you can click on link below to learn about the markdown cheat sheets. 👇*
+_For further more information, you can click on link below to learn about the markdown cheat sheets. 👇_
 
-  *[Markdown Cheat Sheets](https://www.markdownguide.org/cheat-sheet/)*
+_[Markdown Cheat Sheets](https://www.markdownguide.org/cheat-sheet/)_
 
-  *[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)*
-  
+_[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)_
+
 ---
+
 ## Git
 
 - Introduction
@@ -158,16 +169,13 @@ There are two types of markdown syntax elements. Namely:-
     > Cloning is the process of copying the github(online cloud / gitlab ) repository to our local memory. We can clone the repo by copying the repo url from github/gitlab.
     > <br>
 
+    > The command line for **clone** is:<br> > `git clone <remote path(repository url)>`<br>
 
-    > The command line for **clone** is:<br>
-    > `git clone <remote path(repository url)>`<br>
-
-    
     > How can we clone github repository?<br>
 
     1. Create a new folder where you want to clone new directory.<br>
     2. Open git bash inside that folder.<br>
-    3.  Then go to github to the page of repository that you want to clone.<br>
+    3. Then go to github to the page of repository that you want to clone.<br>
     4. Click on the code on the upper right corner where you can find the url to clone your repository.<br/>
 
     ![clone](photos/clone/gitclonecode.PNG)
@@ -175,12 +183,12 @@ There are two types of markdown syntax elements. Namely:-
     1. Now copy the code and use the command line to clone your repository
 
     <br>
-    
+
     ![clone](photos/clone/clone.PNG)
     <br>
-    >The result after cloning the repository:<br>
 
-    
+    > The result after cloning the repository:<br>
+
     ![clone-result](photos/clone/clone-1.PNG)
     <br>
 
@@ -188,69 +196,111 @@ There are two types of markdown syntax elements. Namely:-
   - branch (default)
   - ### Status
 
-      > The **status** command is a command that shows the situation of a working directory in git. It lets you see whether files have been staged or not and if the files have been tracked.
+    > The **status** command is a command that shows the situation of a working directory in git. It lets you see whether files have been staged or not and if the files have been tracked.
 
-      > The command line for **status** is:<br/>
-      > `git status`<br/>
-      
-      > In git, **status** command has an important role as:
+    > The command line for **status** is:<br/> > `git status`<br/>
 
-      1. It shows if there is no git file.<br/>
-        ![git status!](photos/no-git-file.JPG)
+    > In git, **status** command has an important role as:
 
-      2. It shows if there is a need of **add** command.<br/>
-        ![git status!](photos/add.png)
+    1. It shows if there is no git file.<br/>
+       ![git status!](photos/no-git-file.JPG)
 
-      3. It shows if **commit** command should be used.<br/>
-        ![git status](photos/commit2.png)
+    2. It shows if there is a need of **add** command.<br/>
+       ![git status!](photos/add.png)
 
-      4. It shows if there has has been a change/modify in the file.<br/>
-        ![git status!](photos/modified%20.png)
+    3. It shows if **commit** command should be used.<br/>
+       ![git status](photos/commit2.png)
 
-      5. It shows if the file is ready to be pushed.<br/>
-        ![git status!](photos/push2.JPG) <br/>
-      > This command helps a user to push their files to cloud by providing them every steps and shows error if there is one.
+    4. It shows if there has has been a change/modify in the file.<br/>
+       ![git status!](photos/modified%20.png)
+
+    5. It shows if the file is ready to be pushed.<br/>
+       ![git status!](photos/push2.JPG) <br/>
+       > This command helps a user to push their files to cloud by providing them every steps and shows error if there is one.
 
   - ### Add
 
     > The **add** command is used whenever there is a change in the file. It tells git that you want to include updates to a particular file in the next commit. The **add** command actually doesn't records the changes. Updates can be recorded only after running **commit** command. But, the **commit** command can only run after executing the **add** command.
 
-    The command line for **add** is:<br/>
-    `git add 'filename'` or `git add .` where "." means all files. <br/>
-    ![git add filename](photos/add-read.JPG)<br/>
-    ![git add .](photos/add-.JPG)<br/>
+    The command line for **add** is:
 
+         `git add 'filename'` or `git add .` where "." means all files. 
+        
+       ![git add filename](photos/add-read.JPG)
+       <br>
+       ![git add .](photos/add-.JPG)<br/>
   
- 
-  - commit
-  - alias
+  - ### Commit
+
+    > The **commit** command is used to save your changes to the local repository.
+
+    **Command Line for commit :** <br>
+
+    - `"-m" ` parameter sets the commit's message : <br>
+      `git commit -m "changes message" ` <br>
+      ![git-commit](photos/clone/git-commit1.png)
+
+    - `"-a"` parameter includes all currently changed files in the commit :<br>
+      `git commit -a ` <br>
+
+      ![git-commit](photos/clone/git-commit2.png)
+
+    - `"--amend" ` parameter rewrites the very last commit with any currently staged changes and/or a new commit message :<br>
+      ` git commit --amend`
+
+      ![git-commit](photos/clone/git-commit3.png)
+
+  ---
+ - ## Alias
+
+    Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:
+
+    Long commands can be shortened and thus made more memorable.
+    Commands that is used frequently can be shortened for more efficient use.
+    How to define and use aliases
+    You can use git config command with the alias and the command you want to substitute. For example, to create the alias p for git push:
+
+    ![alias](photos/alias.PNG)
+
+    This enables us to use the command git p like any other git command whenever you have to use git push command.
+
+    To see all your aliases:
+
+    ![list](photos/list.PNG)
+
+    Regardless of the method you use, defining aliases improves your overall experience with Git.
+
   - diff
   - Advanced branch
 
-
 ---
+
 ## Guides
 
 In order to start learning git, we need to first download and install git. Here is the link for git: <br/> `https://git-scm.com/downloads`
 
-
 ---
- 
+
 ## Why do we use git?
 
-GIT is a program that works as a distributed revision control and source code management system.  It facilitates different developers to work safely on a particular task without facing any hassles. It is important to know that the GIT software is free, but it is distributed under the terms and conditions of the GNU general public license.
+GIT is a program that works as a distributed revision control and source code management system. It facilitates different developers to work safely on a particular task without facing any hassles. It is important to know that the GIT software is free, but it is distributed under the terms and conditions of the GNU general public license.
 
- It plays an important role by ensuring that all web development tasks are done smoothly without any major issues. Some of its reason for becoming most use softarwe for web developers are:
- 1. It allows you to have several versions of a project at the same time.
- 1. It allows more than one developer to work on a project.
- 1. It allows saving copies of project for backups.
-  --- 
+It plays an important role by ensuring that all web development tasks are done smoothly without any major issues. Some of its reason for becoming most use softarwe for web developers are:
+
+1.  It allows you to have several versions of a project at the same time.
+1.  It allows more than one developer to work on a project.
+1.  It allows saving copies of project for backups.
+
+---
+
 ## Conclusion
+
 In conclusion, it’s important to understand that GIT comes as a savior in many aspects of [web application development](https://www.aapnainfotech.com/wp-content/uploads/2020/06/web-application-development-company.jpg) activities. If you’re in charge of a web development team and want to ensure smooth running and hassle-free project execution, the GIT software is highly recommended.
 
 ---
 
 ## Contributers
+
 - [**Rakesh Shrestha**](https://github.com/aomini)
 - [**Shreyash Shrestha**](https://github.com/Shr3yashhh)
 - [**Debrath Sharma**](https://github.com/Madara-coder)
@@ -258,5 +308,8 @@ In conclusion, it’s important to understand that GIT comes as a savior in many
 - [**Manjila Shakya**](https://github.com/Manjila762)
 - [**Ritika Budhathoki**](https://github.com/Ritika0772)
 - [**Sudesh Acharya**](https://github.com/thesudesh)
+- [**Pawan Tamang**](https://github.com/wreck22)
+- [**Amisha Rijal**](https://github.com/rijalamisha21)
+
 
 ---
