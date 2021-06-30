@@ -51,13 +51,14 @@ Repositories &amp; exercises of batch 2021 july.
     - Origin
   - Cloning
   - Untracked files , tracked files & modified files
-  - branch (default) <br> &nbsp; &nbsp; &nbsp;  Default branch is a branch from where we start our work whenever we open Git .It is the default branch in Git. All the pull requests and commits are made against this branch only unless the user specifies any other branch. While we already get a default branch set up called a master branch, GitHub provides the user with an option to change that. 
-  -  Status <br> &nbsp; &nbsp; &nbsp;  Status  command is the command in git that displays the state of the working directory and the staging area . It lets us see what changes have been made. Mostly, it is used to display the state between Git Add and Git commit . <br> To use a status command in git we execute command : $ git status command once the file is created.  
-  - add <br> &nbsp; &nbsp; &nbsp; add command is a command in git that adds the changes made in the working directory to the staging area. It is an important command , without it no git commit would ever do anything. <br> To add a particular file , we use the command : $ git add whereas to add all changed file we use command: $ git add . command. 
+  - branch (default) <br> &nbsp; &nbsp; &nbsp;  Default branch is a branch from where we start our work whenever we open Git .Master is the default branch in Git. All the pull requests and commits are made against this branch only unless the user specifies any other branch.  <br> <br> Before we create any branch in git we can see what branch we are in by using 'branch' command as seen below which shows that we are initially at master branch. <br> <br> ![photo](photos/abc.png) <br> <br> We can always create a new branch to work on with the help of branch and checkout commands and can always return back to the default branch i.e Master.<br> <br>  ![checkout](photos/yo.png) <br> <br>
+  
+  -  Status <br> &nbsp; &nbsp; &nbsp;  Status  command is the command in git that displays the state of the working directory and the staging area . It lets us see what changes have been made. Mostly, it is used to display the state between Git Add and Git commit . <br> To use a status command in git we execute command 'status' once the file is created.   <br> <br> If we are using status command when there is nothing to commit it displays as : <br><br> ![status](photos/first.png) <br> <br> If we use status command when there is something that needs to be commited then it displays as : <br><br>![status](photos/second.png) <br><br>
+  - add 
   - commit
   - alias
   - diff
-  - Advanced branch
+  - Advanced branch 
 
 ## Guides
 In order to start learning git, we need to first download and install git. Here is the link for git:  <br/>  `https://git-scm.com/downloads`
