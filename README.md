@@ -25,7 +25,6 @@ This file and repository falls under the joint collaboration of students who par
   - [Conclusion](#conclusion)
   - [Contributers](#contributers)
 
-
 ![GitHub contributors](https://img.shields.io/github/contributors/iBootcamp/batch-2021-june)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ibootcamp/batch-2021-june)
@@ -147,23 +146,44 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
     > Github is a online cloude aka online storage where we can keep our program file and documents mostly software data or codes over there. Github makes use of git hence we can view our commits and changes in github aslw well. We use git command to push local data(PC data) from our local repository(add link) to Github repository(Remote). In github we can get open source code and use it freely by cloning in our local computer. There are other similiar platform like gitlab bitbucket and many more.
   - Git vs Github
 
-    | Git | Github |
-    |  --- | ----- |
-    |1. Installe locally |1. Hosted in the  cloud |
-    |2. First released in 2005 |2. Company launched in 2008 |
-    |3. Focused on version control and sharing |3. Focused on centralized source code hosting |            
-    |4. Primarily a command line tool |4. Administered through the web |     
-    |5. Provides a desktop interface named Git Gui  |5. Desktop interface named Github Desktop      |
-    |6. No use management | 6. Built-in management |     |
-    |7. Minimal external tool | 7. Active marketplace for tool integration |
-    |8. Open source licened |8. Inludes a free tier and pay-for-use tiers |
+    | Git                                           | Github                                        |
+    | --------------------------------------------- | --------------------------------------------- | --- |
+    | 1. Installe locally                           | 1. Hosted in the cloud                        |
+    | 2. First released in 2005                     | 2. Company launched in 2008                   |
+    | 3. Focused on version control and sharing     | 3. Focused on centralized source code hosting |
+    | 4. Primarily a command line tool              | 4. Administered through the web               |
+    | 5. Provides a desktop interface named Git Gui | 5. Desktop interface named Github Desktop     |
+    | 6. No use management                          | 6. Built-in management                        |     |
+    | 7. Minimal external tool                      | 7. Active marketplace for tool integration    |
+    | 8. Open source licened                        | 8. Inludes a free tier and pay-for-use tiers  |
+
 - Guides
 - Documentation
 
   - Initialize a repo
-  - Remote
-    - Add Remote
-      - Origin
+  - Remote<br>
+
+    > Simply it's a path that helps to connect with repository.
+
+  - Add Remote<br>
+
+    > To add remote we have to give command at first.
+    > The Command line is:<br>
+    > `git remote add <name><(repository url)>`<br>
+    > Here, name=simply alias that is used instead of repository url
+
+    <br> ![remote](photos/remote/remote.PNG)
+
+    > `git remote` command is used to check whether we are connected with our repository or not.
+
+    <br> ![remote](photos/remote/a.PNG)
+
+    > To see the url link also of the repository along with remote, `git remote -v` command is used.
+
+    <br> ![remote](photos/remote/v.PNG)
+
+  - Origin<br>
+    > It is the common name given to the remote repository by the system.We can also change the alias name if we want by using `git remote rename origin mynewalias`
   - Cloning
 
     > Cloning is the process of copying the github(online cloud / gitlab ) repository to our local memory. We can clone the repo by copying the repo url from github/gitlab.
@@ -224,12 +244,12 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 
     The command line for **add** is:
 
-         `git add 'filename'` or `git add .` where "." means all files. 
-        
-       ![git add filename](photos/add-read.JPG)
-       <br>
-       ![git add .](photos/add-.JPG)<br/>
-  
+         `git add 'filename'` or `git add .` where "." means all files.
+
+    ![git add filename](photos/add-read.JPG)
+    <br>
+    ![git add .](photos/add-.JPG)<br/>
+
   - ### Commit
 
     > The **commit** command is used to save your changes to the local repository.
@@ -250,28 +270,29 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 
       ![git-commit](photos/clone/git-commit3.png)
 
-  ---
- - ## Alias
+  ***
 
-    Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:
+- ## Alias
 
-    Long commands can be shortened and thus made more memorable.
-    Commands that is used frequently can be shortened for more efficient use.
-    How to define and use aliases
-    You can use git config command with the alias and the command you want to substitute. For example, to create the alias p for git push:
+  Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:
 
-    ![alias](photos/alias.PNG)
+  Long commands can be shortened and thus made more memorable.
+  Commands that is used frequently can be shortened for more efficient use.
+  How to define and use aliases
+  You can use git config command with the alias and the command you want to substitute. For example, to create the alias p for git push:
 
-    This enables us to use the command git p like any other git command whenever you have to use git push command.
+  ![alias](photos/alias.PNG)
 
-    To see all your aliases:
+  This enables us to use the command git p like any other git command whenever you have to use git push command.
 
-    ![list](photos/list.PNG)
+  To see all your aliases:
 
-    Regardless of the method you use, defining aliases improves your overall experience with Git.
+  ![list](photos/list.PNG)
 
-  - diff
-  - Advanced branch
+  Regardless of the method you use, defining aliases improves your overall experience with Git.
+
+- diff
+- Advanced branch
 
 ---
 
@@ -310,6 +331,5 @@ In conclusion, it’s important to understand that GIT comes as a savior in many
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Pawan Tamang**](https://github.com/wreck22)
 - [**Amisha Rijal**](https://github.com/rijalamisha21)
-
 
 ---
