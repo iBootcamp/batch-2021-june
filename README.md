@@ -147,13 +147,13 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
   - Git vs Github
 
     | Git                                           | Github                                        |
-    | --------------------------------------------- | --------------------------------------------- | --- |
+    | --------------------------------------------- | --------------------------------------------- | 
     | 1. Installe locally                           | 1. Hosted in the cloud                        |
     | 2. First released in 2005                     | 2. Company launched in 2008                   |
     | 3. Focused on version control and sharing     | 3. Focused on centralized source code hosting |
     | 4. Primarily a command line tool              | 4. Administered through the web               |
     | 5. Provides a desktop interface named Git Gui | 5. Desktop interface named Github Desktop     |
-    | 6. No use management                          | 6. Built-in management                        |     |
+    | 6. No use management                          | 6. Built-in management                        | 
     | 7. Minimal external tool                      | 7. Active marketplace for tool integration    |
     | 8. Open source licened                        | 8. Inludes a free tier and pay-for-use tiers  |
 
