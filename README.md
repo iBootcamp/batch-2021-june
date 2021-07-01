@@ -1,17 +1,15 @@
 
-<<<<<<< HEAD
-=======
 Repositories &amp; exercises of batch 2021 july.
 
 ## Table of Contents
 
-- [Batch-2021-june](#batch-2021-june)
-  - [Table of Contents](#table-of-contents)
-  - [Setup and installation](#setup-and-installation)
-  - [How to write a markdown](#how-to-write-a-markdown)
-  - [Git](#git)
-  - [Guides](#guides)
-  - [Contributers](#contributers)
+- [Table of Contents](#table-of-contents)
+- [Setup and installation](#setup-and-installation)
+- [How to write a markdown](#how-to-write-a-markdown)
+- [Git](#git)
+- [Guides](#guides)
+- [Contributers](#contributers)
+- [- **Manjila Shakya**](#--manjila-shakya)
 
 ## Setup and installation
 
@@ -106,6 +104,5 @@ In order to start learning git, we need to first download and install git. Here 
 - [**Debrath Sharma**](https://github.com/Madara-coder)
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Sagar Karki**](https://github.com/skarki-afk)
-- [**Manjila Shakya**]()
+- [**Manjila Shakya**](https://github.com/Manjila762)
 ---
->>>>>>> manjila
