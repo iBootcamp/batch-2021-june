@@ -32,6 +32,8 @@ This file and repository falls under the joint collaboration of students who par
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/iBootcamp/batch-2021-june)
 
+![ibootcamp start rating](https://img.shields.io/github/stars/iBootcamp/batch-2021-june)
+
 ---
 
 ## Setup and installation
