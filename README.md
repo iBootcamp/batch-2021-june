@@ -105,7 +105,7 @@ Basically, these syntax extends the properties or workings of the basic syntax b
 | Heading ID | `### My Great Heading {#custom-id} `|
 | Definition List | `term` <br> `: definition` |
 | Strikethrough | `~~The world is flat.~~` |
-| Task List | `- [x] Write the press release` <br> `- [ ] Update the website` <br> `- [ ] Contact the media` 
+| Task List | `- [x] Write the press release` <br> `- [ ] Update the website` <br> `- [ ] Contact the media` |
 | Table | `| Anime | Cartoon |` <br> `| ----- | ------- |` <br> `| Hello | Bye-Bye |` <br> `| Life | Happy | ` |
 
 > Note:-
