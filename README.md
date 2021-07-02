@@ -80,12 +80,8 @@ Generally, basic syntax are the very basic syntax of elements used in md (markdo
 | Bold text| `** I am bold **` |
 | Italic text | `* I am italic *` |
 | Blockquote | `> For writing blockquote` |
-| Ordered List | `1. abc ` |
-| ... |` 2. yoohoo` |
-| ... |` 3. and so on` |
-| Unordered List | `- abc ` |
-| ... | `- yohoo `|
-| ... | `- I m number 3 and so on` |
+| Ordered List | `1. abc ` <br> ` 2. yoohoo` <br> ` 3. and so on` |
+| Unordered List | `- abc ` <br> `- yohoo `  <br> `- I m number 3 and so on` |
 | Code | ` `` ` |
 | Horizontal line / Margin | `---` |
 | Link | `[title you want](url of it)` |
@@ -102,24 +98,13 @@ Generally, basic syntax are the very basic syntax of elements used in md (markdo
 Basically, these syntax extends the properties or workings of the basic syntax by adding some additional features like creating the tables , fenced block notes and so on. Also, some syntaxes are given below: 👇
 | Elements | Syntax |
 | --------- | -------- |
-| Footnote | `Here's a sentence with a footnote. [^1]` |
-| .... | `[^1]: This is the footnote.` |
-| Fenced Code Block | ` ``` ` |
-| ... | `{` |
-| ... | ` "firstName": "John", "lastName": "Smith", "age": 25` |
-| ... | `}` |
-| ... | ` ``` ` |
+| Footnote | `Here's a sentence with a footnote. [^1]` <br> `[^1]: This is the footnote.` |
+| Fenced Code Block | ` ``` ` <br> `{` <br> ` "firstName": "John", "lastName": "Smith", "age": 25` <br> `}` <br> ` ``` ` |
 | Heading ID | `### My Great Heading {#custom-id} `|
-| Definition List | `term` |
-| ... | `: definition` |
+| Definition List | `term` <br> `: definition` |
 | Strikethrough | `~~The world is flat.~~` |
-| Task List | `- [x] Write the press release` |
-| ... | `- [ ] Update the website` |
-| ... | `- [ ] Contact the media` |
-| Table | `| Anime | Cartoon |` |
-| ... | `| ----- | ------- |` |
-| ... | `| Hello | Bye-Bye |` |
-| ... | `| Life | Happy | ` |
+| Task List | `- [x] Write the press release` <br> `- [ ] Update the website` <br> `- [ ] Contact the media` 
+| Table | `| Anime | Cartoon |` <br> `| ----- | ------- |` <br> `| Hello | Bye-Bye |` <br> `| Life | Happy | ` |
 
 > Note:-
 >
