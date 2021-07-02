@@ -293,17 +293,17 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
   Regardless of the method you use, defining aliases improves your overall experience with Git.
 
 - ## Diff
-   Diff command is used to find the differences or the changes that has been made recently.To compare what are added or deleted recently
-   Syntax:<br>
-   git diff
+   Diff command is used to find the differences or the changes that has been made recently. To compare what are added or deleted recently.<br>
+   **Syntax:**<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;git diff<br>
    [Diff](photos\diff.png)
 
 - ## Advanced branch
    Advanced branches are made to save our data without including it into the main. We can create as much branches as we want and name them as we like .It is necessary while working on group projects. We can work on the same project making different branches and merge them and add to the main branch.<br>
-   Syntax:<br>
-   git branch            --> To know which branch we are on
-   git branch koko       --> To form a new branch "koko"
-   git checkout koko     --> To switch to the branch koko
+   **Syntax:**<br>
+   &nbsp; &nbsp; &nbsp; &nbsp; git branch            --> To know which branch we are on<br>
+    &nbsp; &nbsp; &nbsp; &nbsp;git branch koko       --> To form a new branch "koko"<br>
+   &nbsp; &nbsp; &nbsp; &nbsp; git checkout koko     --> To switch to the branch koko<br>
    [Advanced branch](photos\adbranch.png)
 ---
 
