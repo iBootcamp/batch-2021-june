@@ -20,7 +20,6 @@ This file and repository falls under the joint collaboration of students who par
     - [What is Markdown in simple language?? 🤔](#what-is-markdown-in-simple-language-)
     - [Markdown Cheat Sheets 📖](#markdown-cheat-sheets-)
   - [Git](#git)
-  - [!Advanced branch](#)
   - [Guides](#guides)
   - [Why do we use git?](#why-do-we-use-git)
   - [Conclusion](#conclusion)
@@ -265,7 +264,7 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 
 - ## Alias
 
-  Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:
+  Alias simply means an alternative name. We can use aliases to serve as substitutes for commands in Git which can create following advantages:q
 
   Long commands can be shortened and thus made more memorable.
   Commands that is used frequently can be shortened for more efficient use.
@@ -294,16 +293,16 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 - ## Diff
    Diff command is used to find the differences or the changes that has been made recently. To compare what are added or deleted recently.<br>
    **Syntax:**<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;git diff<br>
-   ![Diff](photos\diff.png)
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;`git diff`<br>
+   ![Diff](photos/diff.png)
 
 - ## Advanced branch
    Advanced branches are made to save our data without including it into the main. We can create as much branches as we want and name them as we like .It is necessary while working on group projects. We can work on the same project making different branches and merge them and add to the main branch.<br>
    **Syntax:**<br>
-   &nbsp; &nbsp; &nbsp; &nbsp; git branch            --> To know which branch we are on<br>
-  &nbsp; &nbsp; &nbsp; &nbsp;git branch koko       --> To form a new branch "koko"<br>
-   &nbsp; &nbsp; &nbsp; &nbsp; git checkout koko     --> To switch to the branch koko<br>
-   ![Advanced branch](photos\adbranch.png)
+   &nbsp; &nbsp; &nbsp; &nbsp; `git branch`            --> To know which branch we are on<br>
+  &nbsp; &nbsp; &nbsp; &nbsp;`git branch koko`     --> To form a new branch "koko"<br>
+   &nbsp; &nbsp; &nbsp; &nbsp;` git checkout koko`     --> To switch to the branch koko<br>
+   ![Advanced branch](photos/adbranch.png)
    
 ---
 
