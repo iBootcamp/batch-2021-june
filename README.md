@@ -257,8 +257,14 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 
     Regardless of the method you use, defining aliases improves your overall experience with Git.
 
+  - branch (default) <br> &nbsp; &nbsp; &nbsp;  Default branch is a branch from where we start our work whenever we open Git .Master is the default branch in Git. All the pull requests and commits are made against this branch only unless the user specifies any other branch.  <br> <br> Before we create any branch in git we can see what branch we are in by using 'branch' command as seen below which shows that we are initially at master branch. <br> <br> ![photo](photos/abc.png) <br> <br> We can always create a new branch to work on with the help of branch and checkout commands and can always return back to the default branch i.e Master.<br> <br>  ![checkout](photos/yo.png) <br> <br>
+  
+  -  Status <br> &nbsp; &nbsp; &nbsp;  Status  command is the command in git that displays the state of the working directory and the staging area . It lets us see what changes have been made. Mostly, it is used to display the state between Git Add and Git commit . <br> To use a status command in git we execute command 'status' once the file is created.   <br> <br> If we are using status command when there is nothing to commit then : <br><br> ![status](photos/first.png) <br> <br> If we use status command when there is something that needs to be commited then  : <br><br>![status](photos/second.png) <br><br>
+  - add 
+  - commit
+  - alias
   - diff
-  - Advanced branch
+  - Advanced branch 
 
 ---
 
@@ -297,6 +303,4 @@ In conclusion, it’s important to understand that GIT comes as a savior in many
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Pawan Tamang**](https://github.com/wreck22)
 - [**Amisha Rijal**](https://github.com/rijalamisha21)
-
-
----
+- [**Agya Aryal**](https://github.com/AagyaAryal)
