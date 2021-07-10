@@ -158,6 +158,10 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
     | 7. Minimal external tool                      | 7. Active marketplace for tool integration    |
     | 8. Open source licened                        | 8. Inludes a free tier and pay-for-use tiers  |
 
+- Motivation
+  <br>
+  Being fascinated by computers and how it works since our childhood, we always wanted to dig deeper about learning more and more things about it. This Bootcamp can potentially be the spark which will ignite the curiousity inside us and make us aware and serious about the future that the IT profession holds for us. It can be a platform where we can sharpen our knowledge and experience about some of the important things we need to learn, being an IT student. Thats how, we began to start learning git and markdown.
+  
 - Guides
 - Documentation
 
@@ -169,8 +173,7 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
   - Add Remote<br>
 
     > To add remote we have to give command at first.
-    > The Command line is:<br>
-    > `git remote add <name><(repository url)>`<br>
+    > The Command line is:<br> > `git remote add <name><(repository url)>`<br>
     > Here, name=simply alias that is used instead of repository url
 
     <br> ![remote](photos/remote/remote.PNG)
@@ -305,6 +308,7 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
   &nbsp; &nbsp; &nbsp; &nbsp;git branch koko       --> To form a new branch "koko"<br>
    &nbsp; &nbsp; &nbsp; &nbsp; git checkout koko     --> To switch to the branch koko<br>
    ![Advanced branch](photos\adbranch.png)
+   
 ---
 
 ## Guides
