@@ -20,7 +20,6 @@ This file and repository falls under the joint collaboration of students who par
     - [What is Markdown in simple language?? 🤔](#what-is-markdown-in-simple-language-)
     - [Markdown Cheat Sheets 📖](#markdown-cheat-sheets-)
   - [Git](#git)
-  - [!Advanced branch](#)
   - [Guides](#guides)
   - [Why do we use git?](#why-do-we-use-git)
   - [Conclusion](#conclusion)
@@ -299,7 +298,7 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
    Diff command is used to find the differences or the changes that has been made recently. To compare what are added or deleted recently.<br>
    **Syntax:**<br>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;git diff<br>
-   ![Diff](photos\diff.png)
+   ![Diff](photos/diff.png)
 
 - ## Advanced branch
    Advanced branches are made to save our data without including it into the main. We can create as much branches as we want and name them as we like .It is necessary while working on group projects. We can work on the same project making different branches and merge them and add to the main branch.<br>
@@ -307,7 +306,7 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
    &nbsp; &nbsp; &nbsp; &nbsp; git branch            --> To know which branch we are on<br>
   &nbsp; &nbsp; &nbsp; &nbsp;git branch koko       --> To form a new branch "koko"<br>
    &nbsp; &nbsp; &nbsp; &nbsp; git checkout koko     --> To switch to the branch koko<br>
-   ![Advanced branch](photos\adbranch.png)
+   ![Advanced branch](photos/adbranch.png)
    
 ---
 
