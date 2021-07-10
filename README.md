@@ -32,6 +32,8 @@ This file and repository falls under the joint collaboration of students who par
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/iBootcamp/batch-2021-june)
 
+![ibootcamp start rating](https://img.shields.io/github/stars/iBootcamp/batch-2021-june)
+
 ---
 
 ## Setup and installation
@@ -80,12 +82,8 @@ Generally, basic syntax are the very basic syntax of elements used in md (markdo
 | Bold text| `** I am bold **` |
 | Italic text | `* I am italic *` |
 | Blockquote | `> For writing blockquote` |
-| Ordered List | `1. abc ` |
-| ... |` 2. yoohoo` |
-| ... |` 3. and so on` |
-| Unordered List | `- abc ` |
-| ... | `- yohoo `|
-| ... | `- I m number 3 and so on` |
+| Ordered List | `1. abc ` <br> ` 2. yoohoo` <br> ` 3. and so on` |
+| Unordered List | `- abc ` <br> `- yohoo `  <br> `- I m number 3 and so on` |
 | Code | ` `` ` |
 | Horizontal line / Margin | `---` |
 | Link | `[title you want](url of it)` |
@@ -102,24 +100,13 @@ Generally, basic syntax are the very basic syntax of elements used in md (markdo
 Basically, these syntax extends the properties or workings of the basic syntax by adding some additional features like creating the tables , fenced block notes and so on. Also, some syntaxes are given below: 👇
 | Elements | Syntax |
 | --------- | -------- |
-| Footnote | `Here's a sentence with a footnote. [^1]` |
-| .... | `[^1]: This is the footnote.` |
-| Fenced Code Block | ` ``` ` |
-| ... | `{` |
-| ... | ` "firstName": "John", "lastName": "Smith", "age": 25` |
-| ... | `}` |
-| ... | ` ``` ` |
+| Footnote | `Here's a sentence with a footnote. [^1]` <br> `[^1]: This is the footnote.` |
+| Fenced Code Block | ` ``` ` <br> `{` <br> ` "firstName": "John", "lastName": "Smith", "age": 25` <br> `}` <br> ` ``` ` |
 | Heading ID | `### My Great Heading {#custom-id} `|
-| Definition List | `term` |
-| ... | `: definition` |
+| Definition List | `term` <br> `: definition` |
 | Strikethrough | `~~The world is flat.~~` |
-| Task List | `- [x] Write the press release` |
-| ... | `- [ ] Update the website` |
-| ... | `- [ ] Contact the media` |
-| Table | `| Anime | Cartoon |` |
-| ... | `| ----- | ------- |` |
-| ... | `| Hello | Bye-Bye |` |
-| ... | `| Life | Happy | ` |
+| Task List | `- [x] Write the press release` <br> `- [ ] Update the website` <br> `- [ ] Contact the media` |
+| Table | `| Anime | Cartoon |` <br> `| ----- | ------- |` <br> `| Hello | Bye-Bye |` <br> `| Life | Happy | ` |
 
 > Note:-
 >
@@ -295,6 +282,15 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 
   Regardless of the method you use, defining aliases improves your overall experience with Git.
 
+  - branch (default) <br> &nbsp; &nbsp; &nbsp;  Default branch is a branch from where we start our work whenever we open Git .Master is the default branch in Git. All the pull requests and commits are made against this branch only unless the user specifies any other branch.  <br> <br> Before we create any branch in git we can see what branch we are in by using 'branch' command as seen below which shows that we are initially at master branch. <br> <br> ![photo](photos/abc.png) <br> <br> We can always create a new branch to work on with the help of branch and checkout commands and can always return back to the default branch i.e Master.<br> <br>  ![checkout](photos/yo.png) <br> <br>
+  
+  -  Status <br> &nbsp; &nbsp; &nbsp;  Status  command is the command in git that displays the state of the working directory and the staging area . It lets us see what changes have been made. Mostly, it is used to display the state between Git Add and Git commit . <br> To use a status command in git we execute command 'status' once the file is created.   <br> <br> If we are using status command when there is nothing to commit then : <br><br> ![status](photos/first.png) <br> <br> If we use status command when there is something that needs to be commited then  : <br><br>![status](photos/second.png) <br><br>
+  - add 
+  - commit
+  - alias
+  - diff
+  - Advanced branch 
+
 - ## Diff
    Diff command is used to find the differences or the changes that has been made recently. To compare what are added or deleted recently.<br>
    **Syntax:**<br>
@@ -346,7 +342,5 @@ In conclusion, it’s important to understand that GIT comes as a savior in many
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Pawan Tamang**](https://github.com/wreck22)
 - [**Amisha Rijal**](https://github.com/rijalamisha21)
+- [**Agya Aryal**](https://github.com/AagyaAryal)
 - [**Kripa Pokharel**](https://github.com/kripahello)
-  
-
----
