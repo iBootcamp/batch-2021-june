@@ -20,6 +20,7 @@ This file and repository falls under the joint collaboration of students who par
     - [What is Markdown in simple language?? 🤔](#what-is-markdown-in-simple-language-)
     - [Markdown Cheat Sheets 📖](#markdown-cheat-sheets-)
   - [Git](#git)
+  - [!Advanced branch](#)
   - [Guides](#guides)
   - [Why do we use git?](#why-do-we-use-git)
   - [Conclusion](#conclusion)
@@ -147,20 +148,20 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
   - Git vs Github
 
     | Git                                           | Github                                        |
-    | --------------------------------------------- | --------------------------------------------- |
+    | --------------------------------------------- | --------------------------------------------- | 
     | 1. Installe locally                           | 1. Hosted in the cloud                        |
     | 2. First released in 2005                     | 2. Company launched in 2008                   |
     | 3. Focused on version control and sharing     | 3. Focused on centralized source code hosting |
     | 4. Primarily a command line tool              | 4. Administered through the web               |
     | 5. Provides a desktop interface named Git Gui | 5. Desktop interface named Github Desktop     |
-    | 6. No use management                          | 6. Built-in management                        |
+    | 6. No use management                          | 6. Built-in management                        | 
     | 7. Minimal external tool                      | 7. Active marketplace for tool integration    |
     | 8. Open source licened                        | 8. Inludes a free tier and pay-for-use tiers  |
 
 - Motivation
   <br>
   Being fascinated by computers and how it works since our childhood, we always wanted to dig deeper about learning more and more things about it. This Bootcamp can potentially be the spark which will ignite the curiousity inside us and make us aware and serious about the future that the IT profession holds for us. It can be a platform where we can sharpen our knowledge and experience about some of the important things we need to learn, being an IT student. Thats how, we began to start learning git and markdown.
-
+  
 - Guides
 - Documentation
 
@@ -294,9 +295,20 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 
   Regardless of the method you use, defining aliases improves your overall experience with Git.
 
-- diff
-- Advanced branch
+- ## Diff
+   Diff command is used to find the differences or the changes that has been made recently. To compare what are added or deleted recently.<br>
+   **Syntax:**<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;git diff<br>
+   ![Diff](photos\diff.png)
 
+- ## Advanced branch
+   Advanced branches are made to save our data without including it into the main. We can create as much branches as we want and name them as we like .It is necessary while working on group projects. We can work on the same project making different branches and merge them and add to the main branch.<br>
+   **Syntax:**<br>
+   &nbsp; &nbsp; &nbsp; &nbsp; git branch            --> To know which branch we are on<br>
+  &nbsp; &nbsp; &nbsp; &nbsp;git branch koko       --> To form a new branch "koko"<br>
+   &nbsp; &nbsp; &nbsp; &nbsp; git checkout koko     --> To switch to the branch koko<br>
+   ![Advanced branch](photos\adbranch.png)
+   
 ---
 
 ## Guides
@@ -334,5 +346,7 @@ In conclusion, it’s important to understand that GIT comes as a savior in many
 - [**Sudesh Acharya**](https://github.com/thesudesh)
 - [**Pawan Tamang**](https://github.com/wreck22)
 - [**Amisha Rijal**](https://github.com/rijalamisha21)
+- [**Kripa Pokharel**](https://github.com/kripahello)
+  
 
 ---
