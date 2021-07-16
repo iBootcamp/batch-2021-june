@@ -151,6 +151,21 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 - Guides
 - Documentation
 
+  - Initialize a repository
+    - We initilize local folder with **git init** so that we can convert an existing project to a git repository.<br>
+     
+      ![git-init](photos/git-init.png) <br>
+
+    - After using **git init** we get this message. <br>
+   
+      ![git-init](photos/git-init1.png)<br>
+
+    - After the initialization of the git in local repository, we all can see **master** hanging aside the path of the directory. By see the **master** aside the path we all can be sure that the **git init** has ran successfully and we can freely use **git** command in this local repository. <br>
+     
+      ![git-init](photos/git-init2.png)<br>
+  - Remote
+    - Add Remote
+      - Origin
   - Initialize a repo
   - Remote<br>
 
@@ -174,6 +189,7 @@ _[Markdown Cheat Sheet Online](https://guides.github.com/pdfs/markdown-cheatshee
 
   - Origin<br>
     > It is the common name given to the remote repository by the system.We can also change the alias name if we want by using `git remote rename origin mynewalias`
+
   - Cloning
 
     > Cloning is the process of copying the github(online cloud / gitlab ) repository to our local memory. We can clone the repo by copying the repo url from github/gitlab.
